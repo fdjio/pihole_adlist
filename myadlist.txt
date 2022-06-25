@@ -1,0 +1,1 @@
+https://github.com/fdjio/pihole_adlist/blob/main/tblop_domains.txt
