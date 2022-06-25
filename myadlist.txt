@@ -1,1 +1,1 @@
-https://github.com/fdjio/pihole_adlist/blob/main/tblop_domains.txt
+https://raw.githubusercontent.com/fdjio/pihole_adlist/main/tblop_block.txt
